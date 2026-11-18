@@ -1,0 +1,15 @@
+
+FUNCIONARIO: Leticia
+Salario: R$ 2000.00
+Horas extras: 2
+----------------------------
+
+FUNCIONARIO: Maria
+Salario: R$ 1000.00
+Horas extras: 3
+----------------------------
+
+FUNCIONARIO: Rhyanne
+Salario: R$ 3000.00
+Horas extras: 3
+----------------------------
